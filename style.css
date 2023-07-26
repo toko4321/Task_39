@@ -301,6 +301,10 @@ hr{
     .h0{
         display: none;
     }
+     .h8{
+        font-family: 'Space Mono', monospace;
+        font-size: 18px;
+    }
     .img1{
       margin-left: 5px
     }
