@@ -490,7 +490,7 @@ hr{
         display: initial;
         font-size: 12px;
     }
-    .p54{
+    .p54, .p57{
         display: none;
     }
     .h55{
@@ -512,7 +512,5 @@ hr{
       .p36{
         display: initial;
     {
-    .p57{
-        display: none;
-    }
+  
 }  
