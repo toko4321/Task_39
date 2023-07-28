@@ -499,6 +499,9 @@ hr{
         font-weight: 600;
         color: white;
     }
+    .h6{
+        color: white;
+    }
     .card3{
         display: flex;
     }
