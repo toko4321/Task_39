@@ -396,13 +396,10 @@ hr{
         display: initial;
         font-size: 28px;
     }
-    .p36{
-        display: initial;
-    {
-    .p57{
-        display: none;
-    {
     .p1{
+        font-size: 16px;
+    }
+    .p2{
         font-size: 16px;
     }
     .div1{
@@ -427,7 +424,7 @@ hr{
         display: none;
     }
     .img1{
-      margin-left: 5px;
+      margin-left: 5px
     }
     .img9{
         height: 255px;
@@ -489,9 +486,6 @@ hr{
         max-width: 100px;
         max-height: 100px;
     }
-    .p2{
-        font-size: 16px:
-    }
     .p55{
         display: initial;
         font-size: 12px;
@@ -515,5 +509,10 @@ hr{
     .div31{
         margin-top: 0px;
     }
-
-}
+      .p36{
+        display: initial;
+    {
+    .p57{
+        display: none;
+    {
+}  
