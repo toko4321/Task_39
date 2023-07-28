@@ -54,6 +54,11 @@ p{
     font-weight: 700;
     color: white;
 }
+.h69{
+    font-family: 'Space Mono', monospace;
+    font-size: 28px;
+    font-weight: 700;
+    color: white;
 .p1{
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
@@ -521,5 +526,7 @@ hr{
       .p36{
         display: initial;
     {
+    .h69{
+        font-size: 18px;
   
 }  
