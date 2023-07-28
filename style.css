@@ -60,6 +60,13 @@ p{
     font-weight: 700;
     color: white;
 }
+.h39{
+    display: none;
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    
 .p1{
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
@@ -528,7 +535,11 @@ hr{
         display: initial;
     {
     .h69{
-        font-size: 13px!important;
+        display: none;
     }
+    .h39{
+        display: initial;
+    }
+              
   
 }  
