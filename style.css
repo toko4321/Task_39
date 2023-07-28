@@ -1,0 +1,497 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100%;
+    background-color: #2B2B2B;
+}
+
+
+
+/* Text Style */
+
+p{
+    color: white;
+}
+.h1{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 67px;
+    color: white;
+}
+.h67{
+    display: none;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 67px;
+    color: white;
+}
+.h2{
+    font-size: 38px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    color: white;
+}
+h6{
+    color: white;
+}
+.h7{
+    color: white;
+    font-size: 22px;
+}
+.h17{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+}
+.h8{
+    font-family: 'Space Mono', monospace;
+    font-size: 28px;
+}
+.p1{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+}
+.p2{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+.span1{
+    color: #858584;
+}
+.span2{
+    font-family: 'Space Mono', monospace;
+    font-size: 16px;
+}
+.p9{
+    color: #858584;
+    font-size: 16px;
+}
+.p15{
+    color: #858584;
+    font-size:12px;
+    font-family: 'Space Mono', monospace;
+}
+.h14{
+    font-family: 'Space Mono', monospace;
+    color: white;
+    font-size: 22px;
+}
+.h15{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 51px;
+    color: white;
+
+}
+.p66{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #CCCCCC;
+}
+.p67{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #CCCCCC;
+}
+hr{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:white;
+    margin-top: 40px!important;
+    height: 1px;
+}
+.p44{
+    font-size: 38px;
+    color: white;
+    opacity: 2.0;
+    font-family: 'Space Mono', monospace;
+}
+.p43{
+    font-size: 12px;
+    font-family: 'Space Mono', monospace;
+    color: white;
+}
+.p17{
+    font-family: 'Space Mono', monospace;
+    font-size: 16px;
+}
+.p55{
+    display: none;
+}
+.h55{
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600px;
+    font-size: 22px;
+}
+
+
+
+
+/* DIVS */
+
+.div2{
+    display: none;
+}
+.div3{
+    display: none;
+}
+.div6{
+    font-family: 'Space Mono', monospace;
+}
+.div99{
+    background-color: #3B3B3B;
+    margin-top: 90px !important;
+   
+    
+}
+.div37{
+    width: 170px;
+}
+.div33{
+    position: relative;
+}
+.div98{
+    background-color: #3B3B3B;
+    margin-top: 100px !important;
+}
+.div90{
+    background-image: url(nftt.png);
+    margin-top: 80px!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.div55{
+    background-color: #3B3B3B;
+    opacity: 0.6;
+    width: 315px;
+    height: 147px;
+    margin-top: 65px;
+}
+.div31{
+    margin-top:500px;
+}
+.div32{
+    margin-top: 460px;
+}
+.container1{
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+
+
+/* Buttons */
+
+
+.btn1{
+    background-color: #A259FF;
+    color: white;
+    width: 224px;
+    font-family: 'Work Sans', sans-serif;
+}
+.btn4{
+    background-color: #A259FF;
+    color: white;
+    font-size: 14px;
+    font-family: 'Work Sans', sans-serif;
+    width: 130px;
+ }
+ .btn5{
+    background-color: #A259FF;
+    color: white;
+    margin-top: -56px;
+    margin-left: 230px;
+    position: absolute !important;
+    width: 178px;
+    font-family: 'Work Sans', sans-serif;
+
+ }
+ .btn6{
+    background-color: #A259FF;
+    color: white;
+    display: none;
+    font-family: 'Work Sans', sans-serif;
+ }
+ .btn8{
+    background-color: #3B3B3B;
+    color: white;
+    width: 160px;
+    font-family: 'Work Sans', sans-serif;
+ }
+ .btn9{
+    background-color: white;
+    color: black;
+    width: 200px;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+ }
+ .btn18{
+    display: none;   
+    background-color: white;
+    color: black;
+    width: 200px;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+ }
+ .btn10{
+    border: 1px solid #A259FF;
+    background-color: transparent;
+    color: white;
+    width: 200px;
+    font-family: 'Work Sans', sans-serif;
+ }
+ .btn11{
+    border: 1px solid #A259FF;
+    background-color: transparent;
+    color: white;
+    display: none;
+    font-family: 'Work Sans', sans-serif;
+ }
+ .btn12{
+    border: 1px solid #A259FF;
+    background-color: transparent;
+    color: white;
+    width: 187px;
+    font-family: 'Work Sans', sans-serif;
+ }
+ .btn13{
+    border: 1px solid #A259FF;
+    background-color: transparent;
+    color: white;
+    width: 100%;
+    display: none;
+    font-family: 'Work Sans', sans-serif;
+ }
+ .email1{
+    width: 300px!important;
+ }
+ .store{
+    position: absolute!important;
+    margin-top: -3px!important;
+ }
+ .div82{
+    position: relative!important;
+ }
+
+
+
+
+ /* Navbar */
+
+ .navbar-toggler {
+    border: none;
+ }
+ ul{
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+}
+.navbar{
+    color: white;
+}
+.offcanvas-body, .offcanvas-header{
+    background-color: #2B2B2B;
+}
+
+.container{
+    max-width: 1046px;
+}
+
+
+/* CARDS */
+
+.card{
+    border: none;
+    background-color: #2B2B2B;
+}
+.card-title{
+    color: white;
+    margin-left: -15px;
+}
+.body1{
+    background-color: #3B3B3B;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px ;
+   
+}
+.body2{
+    background-color: #2B2B2B;
+}
+.body3{
+    background-color: #3B3B3B;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 175px;
+}
+.card3{
+    background-color: #3B3B3B;
+}
+.imgtop{
+    width: 330px;
+    height: 330px;
+}
+
+
+/* Images */
+
+.img1{
+    margin-left: -40px;
+}
+.img2{
+    filter: blur(7.5px)
+}
+.img99{
+    height: 100px;
+    width: 100px;
+}
+.avatar{
+    height: 510px;
+    width: 510px;
+}
+
+
+
+
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 768px){
+    .card1{
+        float: start;
+    }
+    .h1{
+        font-size: 28px;
+        display: none;
+    }
+    .h67{
+        display: initial;
+        font-size: 28px;
+    }
+    .p1{
+        font-size: 16px;
+    }
+    .div1{
+        display: none;
+    }
+    .div2{
+        display: initial;
+    }
+    .div3{
+        display: initial;
+    }
+    .div5{
+        display: none;
+    }
+    .btn1{
+        width: 100%;
+    }
+    .div4{
+        display: flex;
+    }
+    .h0{
+        display: none;
+    }
+    .img1{
+      margin-left: 5px
+    }
+    .img9{
+        height: 255px;
+        width: 315px;
+        width: 100%;
+    }
+    .div99{
+       background-color: #2B2B2B;
+       margin-top: 50px !important;
+    }
+    .div92{
+        display: none;
+    }
+    .btn6{
+        display: initial;
+    }
+    .btn5{
+        display: none;
+    }
+    .email1{
+        width: 100% !important;
+    }
+    .btn9{
+        width: 100%;
+        display: none;
+    }
+    .btn18{
+        display: initial;
+        width: 100%;
+
+    }
+    .btn10{
+        display: none;
+    }
+    .btn11{
+        display: initial;
+        width: 95%;
+        margin-left: 10px;
+    }
+    .btn12{
+        display: none;
+    }
+    .btn13{
+        display: initial;
+        width: 95%;
+        margin-left: 10px;
+    }
+    .div31{
+        margin-top: 30px;
+    }
+    .avatar{
+        height: 315px;
+        width: 315px;
+    }
+    .p67{
+        font-size: 12px;
+    }
+    .img77{
+        max-width: 100px;
+        max-height: 100px;
+    }
+    .p55{
+        display: initial;
+        font-size: 12px;
+    }
+    .p54{
+        display: none;
+    }
+    .h55{
+        font-size: 16px;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 600;
+        color: white;
+    }
+    .card3{
+        display: flex;
+    }
+    .div55{
+        width: 100%;
+    }
+    .div31{
+        margin-top: 0px;
+    }
+
+}
